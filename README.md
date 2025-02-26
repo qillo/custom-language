@@ -1,6 +1,6 @@
 # "Compilador" de lenguaje personalizado
 
-Este proyecto es un **"compilador"** para un lenguaje de programación personalizado basado en funcionalidades básicas de C. Dicho lenguaje, se trata de una "traducción simplificada al español de C".
+Este proyecto es un proyecto de la asignatura Procesadores de Lenguajes. Se trata un **"compilador"** para un lenguaje de programación personalizado basado en funcionalidades básicas de C. Dicho lenguaje, consiste en una "traducción simplificada al español de C".
 
 El objetivo del "compilador" es traducir (con todas las fases oportunas) nuestro lenguaje, a la versión C correspondiente, para que pueda ser compilado por herramientas tradicionales, y realice las tareas para las que había sido programado en el lenguaje original personalizado. Incluye las siguientes fases y tecnologías:
 
